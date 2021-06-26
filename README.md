@@ -1,7 +1,7 @@
 # webpack5-bootstrap5
 ## Quick start
-Clone this repo using ** git clone git@github.com:coatceatl/webpack5-bootstrap5.git **
-<YOUR_PROJECT_NAME>
+Clone this repo using 
+### git clone git@github.com:coatceatl/webpack5-bootstrap5.git <YOUR_PROJECT_NAME>
 Move to the directory: cd <YOUR_PROJECT_NAME>.
 Run ## npm i in order to install dependencies.
 At this point you can run npm watch to see the example app at http://localhost:8080.
